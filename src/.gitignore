@@ -1,0 +1,16 @@
+/target/
+.classpath
+.project
+.settings/
+.idea/
+bin
+svrl
+${sys:applicationLogDir}/
+.springBeans
+/.vscode
+.editorconfig
+*.iml
+.allure
+allure-results
+.DS_Store
+certs/
