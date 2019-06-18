@@ -4,6 +4,13 @@
 
 ---
 
+
+Takes configuration through a YAML file for different environments
+Exposes a RESTful interface
+Validates the incoming request
+Uses a service and DAO to access a local database which is generated at runtime
+Produces a JSON response using Java POJOs
+
 ### What we will cover
 
 * How to use the Serverless Framework
