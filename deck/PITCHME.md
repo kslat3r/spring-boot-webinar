@@ -55,6 +55,28 @@
 
 ---
 
+>  Java virtual machine (JVM) is a virtual machine that enables a computer to run Java programs as well as programs written in other languages that are also compiled to Java bytecode.
+
+---
+
+#### JVM architecture
+
+![JVM architecture](/assets/image/jvm-architecture.png)
+
+---
+
+#### Features of the JVM
+
+---
+
+#### Benefits of the JVM
+
+---
+
+#### Negatives of the JVM
+
+---
+
 ## Maven
 
 ---
