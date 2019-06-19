@@ -182,6 +182,7 @@ https://maven.apache.org/maven-features.html
 
 #### How Maven is not NPM
 
+* XML vs JSON
 * Built in build/deploy system over custom scripts
 * More declarative syntax
 * Dependency resolution
