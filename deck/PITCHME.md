@@ -67,13 +67,42 @@
 
 #### Features of the JVM
 
+* Platform independence 
+  * Write once, run anywhere
+* Memory management
+  * Memory allocation
+  * Garbage collection
+* Exception handling
+  * Issues in your application will not affect the underlying OS
+* Security
+  * Sandbox environment for execution of application code that disallows interaction with OS resources
+* Memory safe references
+* Multiple implementations (languages)
+  * Scala
+  * Kotlin
+  * Jython
+  * Jruby
+
 ---
 
 #### Benefits of the JVM
 
+* Run your code on any operating system that implements the JVM specification
+* Multiple choices of implementation of the specification
+  * OpenJDK HotSpot
+  * Oracle JDK/JRE
+* JIT compilation
+
 ---
 
 #### Negatives of the JVM
+
+* Performance
+  * Java bytecode cannot be optimised for a specific hardware set
+* Single point of failure
+  * If the JVM has a bug, it may cause your application to fail
+* Memory footprint
+* Startup time
 
 ---
 
