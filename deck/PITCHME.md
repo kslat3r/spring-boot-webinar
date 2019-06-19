@@ -61,7 +61,7 @@
 
 #### JVM architecture
 
-![JVM architecture](/assets/image/jvm-architecture.png)
+![JVM architecture](https://github.com/kslat3r/spring-boot-webinar/raw/master/deck/assets/image/jvm-architecture.png)
 
 ---
 
