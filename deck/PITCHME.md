@@ -53,8 +53,6 @@
 
 ## JVM
 
----
-
 >  Java virtual machine (JVM) is a virtual machine that enables a computer to run Java programs as well as programs written in other languages that are also compiled to Java bytecode.
 
 ---
@@ -117,6 +115,8 @@
 
 ---
 
+## POM
+
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
@@ -169,9 +169,24 @@
 
 #### Features of Maven
 
+* Simple project setup
+* Dependency management
+* Large repository of managed third-party libraries
+* Build system for JARs, WARs and distrubuted build models
+* Extensible with plugin system
+* Release management and distribution publication
+
+https://maven.apache.org/maven-features.html
+
 ---
 
 #### How Maven is not NPM
+
+* Built in build/deploy system over custom scripts
+* More declarative syntax
+* Dependency resolution
+  * Picks a single version of a dependency
+* More mature and quality-controlled ecosystem (Maven Central, Nexus)
 
 ---
 
