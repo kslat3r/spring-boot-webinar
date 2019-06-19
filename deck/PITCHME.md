@@ -35,8 +35,8 @@
 * Maven 3 installed on your system
   * `brew install maven` (if it is not already installed, check with `maven -version`)
 * A Java IDE (I use IntelliJ community edition, but Eclipse is also good)
-  * `https://www.jetbrains.com/idea/`
-  * `https://www.eclipse.org/downloads/`
+  * https://www.jetbrains.com/idea/
+  * https://www.eclipse.org/downloads/
 
 ---
 
@@ -191,7 +191,8 @@ https://maven.apache.org/maven-features.html
 ---
 
 ## Spring Boot Generator
-### `https://start.spring.io/`
+
+https://start.spring.io/
 
 ---
 
