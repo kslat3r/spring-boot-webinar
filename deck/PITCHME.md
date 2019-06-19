@@ -6,8 +6,8 @@
 
 ### What we will cover
 
-* What Maven is and how to use it
 * What the JVM is and how it works with your application
+* What Maven is and how to use it
 * How to create a Spring Boot application quickly and easily using the online generator
 * A walkthrough of a simple RESTful application with database connectivity
 
@@ -47,11 +47,11 @@
 
 ---
 
-## Maven
+## JVM
 
 ---
 
-## JVM
+## Maven
 
 ---
 
