@@ -1,12 +1,12 @@
-package com.sapient.apiexample.balancespapiservice.controller;
+package com.sapient.springbootwebinar.controller;
 
 import static org.springframework.http.MediaType.APPLICATION_JSON_VALUE;
 
-import com.sapient.apiexample.balancespapiservice.model.Balance;
+import com.sapient.springbootwebinar.model.Balance;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
-import com.sapient.apiexample.balancespapiservice.service.BalancesService;
+import com.sapient.springbootwebinar.service.BalancesService;
 
 import java.util.List;
 

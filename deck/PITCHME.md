@@ -4,6 +4,10 @@
 
 ---
 
+### Please feel free to jump in with any questions at any point during the webinar
+
+---
+
 ### What we will cover
 
 * What the JVM is and how it works with your application

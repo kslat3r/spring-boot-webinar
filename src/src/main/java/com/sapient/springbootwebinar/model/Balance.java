@@ -1,7 +1,6 @@
-package com.sapient.apiexample.balancespapiservice.model;
+package com.sapient.springbootwebinar.model;
 
 import lombok.Data;
-
 import javax.persistence.*;
 import java.math.BigInteger;
 

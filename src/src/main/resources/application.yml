@@ -1,7 +1,7 @@
 server:
   port: 9080
   servlet:
-    context-path: /balances-papi-service/v1.0
+    context-path: /example-api/v1.0
 
 spring:
   profiles:
@@ -30,7 +30,7 @@ spring:
   profiles: development
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://127.0.0.1/balances_papi_service
+    url: jdbc:mysql://127.0.0.1/example_api
     username: root
     password:
   jpa:
@@ -51,6 +51,6 @@ spring:
   profiles: production
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://127.0.0.1/balances_papi_service
-    username: balances_papi_service
-    password: balances_papi_service
+    url: jdbc:mysql://127.0.0.1/example_api_production
+    username: example_api_production
+    password: example_api_production

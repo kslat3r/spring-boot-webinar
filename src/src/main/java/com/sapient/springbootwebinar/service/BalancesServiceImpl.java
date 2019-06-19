@@ -1,7 +1,7 @@
-package com.sapient.apiexample.balancespapiservice.service;
+package com.sapient.springbootwebinar.service;
 
-import com.sapient.apiexample.balancespapiservice.model.Balance;
-import com.sapient.apiexample.balancespapiservice.repository.BalancesRepository;
+import com.sapient.springbootwebinar.model.Balance;
+import com.sapient.springbootwebinar.repository.BalancesRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
