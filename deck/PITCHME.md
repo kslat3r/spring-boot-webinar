@@ -74,6 +74,9 @@
   * Garbage collection
 * Exception handling
   * Issues in your application will not affect the underlying OS
+
+---
+
 * Security
   * Sandbox environment for execution of application code that disallows interaction with OS resources
 * Memory safe references
