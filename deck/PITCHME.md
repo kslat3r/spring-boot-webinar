@@ -1,30 +1,23 @@
-## Building your First Alexa Skill using the Serverless Framework
+## Getting started with Spring Boot as a Node.js developer
 
-### December 6th 2018
+### 20th June 2019
 
 ---
 
-
-Takes configuration through a YAML file for different environments
-Exposes a RESTful interface
-Validates the incoming request
-Uses a service and DAO to access a local database which is generated at runtime
-Produces a JSON response using Java POJOs
-
 ### What we will cover
 
-* How to use the Serverless Framework
-* How to configure your Alexa skill on the AWS platform
-* How to build your Alexa skill and get it to recognise basic commands
-
-*Bear in mind that this is a code-along!*
+* What Maven is and how to use it
+* What the JVM is and how it works with your application
+* How to create a Spring Boot application quickly and easily using the online generator
+* A walkthrough of a simple RESTful application with database connectivity
 
 ---
 
 ### What this is not
 
-* An analysis of the various FaaS providers
-* How to publish your Alexa skill to Amazon
+* A walkthrough of basic Java concepts
+* A comparison between Express.js/Loopback and Spring Boot
+* A production-ready implementation (e.g. no tests!)
 
 ---
 
@@ -32,14 +25,9 @@ Produces a JSON response using Java POJOs
 
 ---
 
-* A terminal
-* A web browser
-* A text editor (Visual Studio Code)
-* Node.js v8.9.4
-* NPM v5.6.0
-* **An AWS account** - get a free trial here https://aws.amazon.com/s/dm/optimization/server-side-test/free-tier/free_np/
-
-*Please double check you have the correct versions of Node/NPM*
+* Java 8 installed on your system
+* Maven 2 installed on your system
+* A Java IDE (I use IntelliJ community edition, but Eclipse is also good)
 
 ---
 
