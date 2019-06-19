@@ -81,6 +81,14 @@
 
 ---
 
+#### Features of Maven
+
+---
+
+#### How Maven is not NPM
+
+---
+
 ## Spring Boot Generator
 ### `https://start.spring.io/`
 
